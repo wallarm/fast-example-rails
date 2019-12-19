@@ -1,8 +1,8 @@
 # README
 
-This is example of integration Wallarm FAST with the simple ruby on rails application using rspec, capybara and selenium.
+This is an example of integration Wallarm FAST with the simple Ruby on Rails application using RSpec, Capybara and Selenium.
 
-Read more about Wallarm FAST: https://wallarm.com/products/fast
+Learn more about Wallarm FAST: https://wallarm.com/products/fast
 
 ## How to run tests
 
@@ -29,4 +29,4 @@ sudo -E docker-compose down
 
 Results of security tests will be here: https://us1.my.wallarm.com/testing/?status=all
 
-For full FAST documentation visit: https://docs.fast.wallarm.com
+For full FAST documentation, visit: https://docs.fast.wallarm.com
